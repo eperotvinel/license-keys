@@ -2,7 +2,7 @@
   "users": [
     {
       "pseudo": "jean",
-      "password": "jean",
+      "password": "jean123",
       "role": "revendeur"
     }
   ]
