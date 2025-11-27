@@ -1,1 +1,9 @@
-
+{
+  "users": [
+    {
+      "pseudo": "jean",
+      "password": "jean",
+      "role": "revendeur"
+    }
+  ]
+}
