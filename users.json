@@ -4,6 +4,10 @@
       "pseudo": "jean",
       "password": "jean123",
       "role": "revendeur"
+    },
+    {
+      "pseudo": "yo",
+      "password": "yo"
     }
   ]
 }
