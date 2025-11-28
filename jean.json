@@ -1,8 +1,16 @@
 {
   "cles": [
     {
+      "cle": "PREMIUM-FUOYQL-LD6X4B",
+      "expire": 1766923863
+    },
+    {
       "cle": "PREMIUM-72KFFE-8SB7DT",
       "expire": 1764264589
+    },
+    {
+      "cle": "PREMIUM-2KXURE-Q3Z5TW",
+      "expire": 1764327604
     }
   ]
 }
